@@ -6,3 +6,4 @@ Package containing a simple 2D Inverse Kinematics solver for Unity3D.
 **IkTargetController.cs**: controls the target position with the mouse (made for debugging). Drop into the *target* GameObject.
 
 ## Example
+![Example GIF](example.gif)
